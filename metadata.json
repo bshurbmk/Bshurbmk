@@ -1,0 +1,7 @@
+{
+  "name": "Chernobyl RBMK-1000: Ghost of Pripyat",
+  "description": "Ultra-realistic RBMK-1000 nuclear reactor simulator with advanced physics and immersive 80s atmosphere.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
